@@ -1,0 +1,5 @@
+total 12
+drwxrwxr-x 3 saurabh saurabh 4096 Oct 24 12:11 .
+drwxrwxr-x 4 saurabh saurabh 4096 Oct 24 12:05 ..
+-rw-rw-r-- 1 saurabh saurabh    0 Oct 24 12:12 firstcommit.txt
+drwxrwxr-x 7 saurabh saurabh 4096 Oct 24 12:05 .git
